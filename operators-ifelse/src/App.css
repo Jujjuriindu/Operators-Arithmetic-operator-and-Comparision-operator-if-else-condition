@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+}
+
+h1{
+  background-color: lightskyblue;
+  border: 5px solid black;
+  border-radius: 30px;
+  box-shadow: 10px 10px 10px black;
+}
+
+h2{
+  font-size: 2rem;
+  text-decoration: underline;
+}
+
+button{
+  background-color: lightsalmon;
+  padding: 10px;
+  margin: 10px;
+  font-size: 1rem;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.assignButton{
+  background-color: brown;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  font-size: 1rem;
+}
+
+.comparisionButton{
+  background-color: violet;
+  padding: 10px;
+  margin: 10px;
+  font-size: 1rem;
+}
+
+form{
+  background-color: lightcyan;
+  border: 3px solid black;
+  width: 700px;
+  height: 800px;
+}
+
+form label{
+  display: inline-block;
+  font-size: 1.5rem;
+  width: 200px;
+}
+
+form div{
+  display: inline-block;
+  margin: 20px;
+}
